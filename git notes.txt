@@ -1,0 +1,9 @@
+1).
+config is used as necessary code
+to change username
+git config --global user.name "NAME"
+git config --global user.email "NAME@gmail.com"
+git config --list to show all the details
+to only check particular username or email or anything else
+git config user.(name or mail or anything else)
+clear command is to clear everything on the screen
