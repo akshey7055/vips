@@ -27,3 +27,5 @@ working copy > staging area > repository
 nothing
 7).
 git diff to check the differnces between the file
+rm to delete a file
+git rm file name.extention
