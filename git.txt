@@ -33,3 +33,6 @@ git rm file name.extention
 when we rename a file in directory just old file is delete and new file with same contents and new name is made
 9).
 git mv oldfilename.extention to newfilename.extention to rename a file through git
+to move a file
+git mv filename.extention to folder name/new name of ur file
+10).
