@@ -24,3 +24,6 @@ git log --author="Name" to see the commits from a single person only
 git status to check the update on directory
 working copy > staging area > repository
 6).
+nothing
+7).
+git diff to check the differnces between the file
