@@ -1,0 +1,29 @@
+1).
+config is used as necessary code
+to change username
+git config --global user.name "NAME"
+git config --global user.email "NAME@gmail.com"
+git config --list to show all the details
+to only check particular username or email or anything else
+git config user.(name or mail or anything else)
+clear command is to clear everything on the screen
+3).
+pwd to know the current location of git
+cd- change directory
+cd.. is used to back on a directory
+cd name to enter in a directory
+ls to find the list of items
+git initgit init empty git repository
+4).
+ls -la to see hide files of folder
+git add . to make changes what we made
+git commit -m "This is my first commit"
+5). 
+git log to check the history of commits
+git log --author="Name" to see the commits from a single person only
+git status to check the update on directory
+working copy > staging area > repository
+6).
+nothing
+7).
+git diff to check the differnces between the file
