@@ -29,3 +29,7 @@ nothing
 git diff to check the differnces between the file
 rm to delete a file
 git rm file name.extention
+8).
+when we rename a file in directory just old file is delete and new file with same contents and new name is made
+9).
+git mv oldfilename.extention to newfilename.extention to rename a file through git
