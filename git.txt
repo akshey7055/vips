@@ -35,7 +35,7 @@ when we rename a file in directory just old file is delete and new file with sam
 git mv oldfilename.extention to newfilename.extention to rename a file through git
 to move a file
 git mv filename.extention to folder name/new name of ur file
-10).
+10)
 git commit -am "to ignore the git add . statement and directly add the file to repository
 11).
 git checkout -- filename.extention to make changes accept by the repository
