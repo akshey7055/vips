@@ -41,3 +41,5 @@ git commit -am "to ignore the git add . statement and directly add the file to r
 git checkout -- filename.extention to make changes accept by the repository
 12). 
 git reset HEAD filename.extention to reset the change
+first > second
+git checkout commit id first_few_letters --index.hmtl to go back to previous repository without any editing
