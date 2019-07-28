@@ -36,3 +36,8 @@ git mv oldfilename.extention to newfilename.extention to rename a file through g
 to move a file
 git mv filename.extention to folder name/new name of ur file
 10).
+git commit -am "to ignore the git add . statement and directly add the file to repository
+11).
+git checkout -- filename.extention to make changes accept by the repository
+12). 
+git reset HEAD filename.extention to reset the change
