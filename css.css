@@ -1,7 +1,10 @@
-h6 > p { background-color : #eddfcc ; color : #39e35b ; }
 h1{ text-align : center ; }
-#vips{ color : #fc515f ; font-size : 50px }
+#vips{ color : #fc515f ; font-size : 50px ; }
+.center{ text-align : center ; }
+.cntr{ text-align : center ; color: #f003fc ; }
+small{ color: #f003fc ; }
 .head { font-size : 30px }
+.size { font-size : 20px }
 .CU3{ height : 80 ; width : 80 ; }
 #ab{ text-align : center ; }
 a:link{ color : blue ; text-decoration : none ; }
@@ -9,8 +12,8 @@ a:visited{ color: #cf03fc ; text-decoration : underline ; }
 a:hover{ color: #fa054e ; text-decoration: none ; font-weight: bold ; }
 a:active{ color: #92eb26 ; text-decoration: underline ; }
 h1 > pre, #pub { text-align : right ; }
-a > button { background-color: #ede6e8 ; color : #5c5a56 ; border : 3px solid blalck;}
-a > button:active{ background-color : blue ; color : white ; border : 3px solid blue;}
+a > button { background-color: #ede6e8 ; color : #3105e3 ; border : 3px solid black;}
+a > button:active{ background-color : #03fc80 ; color : white ; border : 3px solid #03fc80;}
 #hobby { background-color : #ede6e8 ; color : #ed9b4a ;}
 ul {
   font-size:20px;
