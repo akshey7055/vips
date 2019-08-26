@@ -1,12 +1,17 @@
-p{background-color:#eddfcc;color:#39e35b;}
-h1{text-align:center;}
-#vips{color:red;font-size:50px}
-.CU3{height:80;width:80;}
-#ab{text-align:center;}
-a:link{color:blue;text-decoration:none;}
-a:visited{color:#cf03fc;text-decoration:underline;}
-a:hover{color:#fa054e;text-decoration:none;font-weight:bold;}
-a:active{color:#92eb26;text-decoration:underline;}
+h6 > p { background-color : #eddfcc ; color : #39e35b ; }
+h1{ text-align : center ; }
+#vips{ color : #fc515f ; font-size : 50px }
+.head { font-size : 30px }
+.CU3{ height : 80 ; width : 80 ; }
+#ab{ text-align : center ; }
+a:link{ color : blue ; text-decoration : none ; }
+a:visited{ color: #cf03fc ; text-decoration : underline ; }
+a:hover{ color: #fa054e ; text-decoration: none ; font-weight: bold ; }
+a:active{ color: #92eb26 ; text-decoration: underline ; }
+h1 > pre, #pub { text-align : right ; }
+a > button { background-color: #ede6e8 ; color : #5c5a56 ; border : 3px solid blalck;}
+a > button:active{ background-color : blue ; color : white ; border : 3px solid blue;}
+#hobby { background-color : #ede6e8 ; color : #ed9b4a ;}
 ul {
   font-size:20px;
   list-style-type: none;
