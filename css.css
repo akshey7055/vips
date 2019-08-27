@@ -13,7 +13,8 @@ a:hover{ color: #fa054e ; text-decoration: none ; font-weight: bold ; }
 a:active{ color: #92eb26 ; text-decoration: underline ; }
 h1 > pre, #pub { text-align : right ; }
 a > button { background-color: #ede6e8 ; color : #3105e3 ; border : 3px solid black;}
-a > button:active{ background-color : #03fc80 ; color : white ; border : 3px solid #03fc80;}
+a > button:active { background-color : #42f5e6 ; color : white ; border : 3px solid #42f5e6;}
+a > button:hover { background-color : #03fc80 ; color : white ; border : 3px solid #03fc80;}
 #hobby { background-color : #ede6e8 ; color : #ed9b4a ;}
 ul {
   font-size:20px;
@@ -37,7 +38,58 @@ ul > li > a {
   padding: 16px;
   text-decoration: none;
   }
+  .head
+  {
+    font-size:40px;
+  }
+  .mission
+  {
+    color: #f003fc ;
+    padding-left: 40px;
+    font-size:20px;
+  }
+  .cntr
+  {
+    padding-left: 40px;
+  }
+  .size
+  {
+    margin: 0 auto; 
+    display:inline-block;
+  }
+  .size p
+  {
+    font-size:30px;
+    display:inline-block;
+    padding-left: 170px;
+  }
 
-
-
-
+  @media only screen and (max-width:1000px)
+  {
+    .size
+    {
+      margin: 0 auto; 
+      display:inline-block;
+    }
+    .size p
+    {
+      font-size:30px;
+      display:inline-block;
+      padding-left: 40px;
+    }
+    .head
+    {
+      font-size:20px;
+    }
+    .mission
+    {
+      padding-left: 40px;
+      font-size: 10px;
+    }
+    .cntr
+    {
+      font-size:19px;
+      padding-left: 220px;
+    }
+  }
+  
