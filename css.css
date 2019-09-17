@@ -182,9 +182,6 @@ ul {
 
 ul>li {
   float: left;
-}
-
-ul>li>a {
   position: fixed;
   display: block;
   color: #fa0750;
@@ -278,7 +275,7 @@ ul>li>a {
 {
   display:inline-block;
   position:relative;
-  margin:0 0.8rem;   
+  margin:0 0.5rem;   
 }
 
   #vips {
@@ -299,8 +296,6 @@ ul>li>a {
   }
   ul>li {
       float: left;
-  }
-  ul>li>a {
       display: block;
       color: #fa054e;
       text-align: center;
@@ -329,41 +324,37 @@ ul>li>a {
       margin: auto;
   }
   #button1:link {
-      text-decoration: none;
-      border: 2px solid #afb0ac;
+      text-decoration: underline;
       color: #f207ac;
       background-color: #ede6e8;
       margin: 0px;
+      font-size:15px;
       padding: 0px;
-      border-radius: 12px;
   }
   #button1:visited {
-      text-decoration: none;
-      border: 2px solid #afb0ac;
+      text-decoration: underline;
       color: #f207ac;
+      font-size:15px;
       background-color: #ede6e8;
       margin: 0px;
       padding: 0px;
-      border-radius: 12px;
   }
   #button1:hover {
-      text-decoration: none;
-      border: 2px solid #afb0ac;
+      text-decoration: underline;
       color: #f207ac;
+      font-size:15px;
       background-color: #c1f547;
       margin: 1px;
       padding: 1px;
-      border-radius: 10px;
   }
   #button1:active {
-      text-decoration: none;
-      border: 2px solid #afb0ac;
+      text-decoration: underline;
       color: #f207ac;
+      font-size:15px;
       background-color: #f5fc60;
       margin: 1px;
       padding: 1px;
-      border-radius: 10px;
-  }
+     }
   .CU3 {
       height: 55px;
       width: 55px;
@@ -374,7 +365,7 @@ ul>li>a {
           top: 30px;
       }
       to {
-          left: 105px;
+          left: 90px;
           top: 30px;
       }
   }
